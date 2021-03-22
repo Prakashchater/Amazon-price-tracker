@@ -3,8 +3,8 @@ import requests
 import lxml
 import smtplib
 
-email = "chaterprakash@gmail.com"
-password = "pcchater@160997"
+email = "your email-id"
+password = "your password"
 
 url = "https://www.amazon.in/Fossil-Touchscreen-Smartwatch-Smartphone-Notifications/dp/B07SRVV8V4/ref=sr_1_6?crid=1YN9U05X4YMXU&dchild=1&keywords=smart+watch+fossil&qid=1616389788&sprefix=smart+watch+foss%2Caps%2C299&sr=8-6"
 user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36"
